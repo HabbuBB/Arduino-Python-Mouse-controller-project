@@ -29,7 +29,7 @@ Joystick module and four (4) Female-to-male Dupont wires
 _I personally used [Elegoo Super Starter Kit for UNO](https://www.elegoo.com/products/elegoo-uno-project-super-starter-kit)_
 ## Wiring diagram
 
-![Screenshot of Arduino board](img\DemoPicture.jpg)
+![Screenshot of Arduino board](https://github.com/HabbuBB/Arduino-Python-Mouse-controller-project/blob/master/img/DemoPicture.jpg)
 
 
 Great for beginners!
@@ -45,7 +45,7 @@ __3)__ Paste the _mouse_arduino.ino_ file to your own Arduino project
 
 __4)__ Plug in your Arduino and run the program. Open serial monitor to make sure it's working
 
-![Screenshot of Arduino serial port input](img\serialportDemo.PNG)
+![Screenshot of Arduino serial port input](https://github.com/HabbuBB/Arduino-Python-Mouse-controller-project/blob/master/img/serialportDemo.PNG)
 
 _The serial port shows the input as following: 
 
