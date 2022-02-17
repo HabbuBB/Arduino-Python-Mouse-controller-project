@@ -47,7 +47,7 @@ __4)__ Plug in your Arduino and run the program. Open serial monitor to make sur
 
 ![Screenshot of Arduino serial port input](https://github.com/HabbuBB/Arduino-Python-Mouse-controller-project/blob/master/img/serialportDemo.PNG)
 
-_The serial port shows the input as following: 
+The serial port shows the input as following: 
 
 X-coordinates:Y-coordinates:Mouse input
 
